@@ -1,0 +1,42 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "1a7c865b-6172-400b-8411-db92ed75aff4",
+            "collectionId": "Serbian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Blog_Post/1a7c865b-6172-400b-8411-db92ed75aff4/1a7c865b-6172-400b-8411-db92ed75aff4_bs_Female.mp4"
+        },
+        {
+            "id": "9c694101-37e2-4eb4-8258-d05d16a5e2ca",
+            "collectionId": "Serbian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Blog_Post/9c694101-37e2-4eb4-8258-d05d16a5e2ca/9c694101-37e2-4eb4-8258-d05d16a5e2ca_bs_Male.mp4"
+        },
+        {
+            "id": "840391f5-53cc-4a58-a6ad-9ee90b0059cc",
+            "collectionId": "Serbian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Blog_Post/840391f5-53cc-4a58-a6ad-9ee90b0059cc/840391f5-53cc-4a58-a6ad-9ee90b0059cc_bs_Female.mp4"
+        },
+        {
+            "id": "2db1bf5b-ca1d-4c15-9d84-133c7c8ef408",
+            "collectionId": "Serbian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Blog_Post/2db1bf5b-ca1d-4c15-9d84-133c7c8ef408/2db1bf5b-ca1d-4c15-9d84-133c7c8ef408_bs_Male.mp4"
+        },
+        {
+            "id": "dc2596b0-66f3-4a6e-9146-2f00a5801049",
+            "collectionId": "Serbian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Blog_Post/dc2596b0-66f3-4a6e-9146-2f00a5801049/dc2596b0-66f3-4a6e-9146-2f00a5801049_bs_Female.mp4"
+        }
+    ]
+}
